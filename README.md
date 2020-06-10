@@ -5,7 +5,8 @@ The code contains the map reduce programme. WordCount just as a refresher.
 A custom writable java object. This helps in removing the hassel.
 
 ``` 
-MINMAX PROJECT
+MINMAX PROJECT - Hadoop-MapReduce/src/main/java/com/hadoop/Players/
+
 Input :
       This is a custom writable class being used to save extra effort
       in splitting data at the reducer side and avoiding unnecessary problems that can occur from the delimiter.
