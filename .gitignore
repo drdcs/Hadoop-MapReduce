@@ -3,3 +3,5 @@
 .project
 HadoopProgramming.iml
 target/
+.classpath
+.settings
