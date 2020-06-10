@@ -17,3 +17,12 @@ Input :
       'SomeName', 100, 'SomeOpposition', 20200310, 102, 4, 104
 
 ```
+# Hadoop essential
+
+```This is a hadoop essential: csv reader
+package path: src/main/java/com/hadoop/essentials/
+
+jackson csv reader with Object mapping.
+
+
+```
