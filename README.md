@@ -12,6 +12,6 @@ Input :
       Data Format:
 
       playerName score opposition timestamps ballsTaken fours six
-     'SomeName', 100, 'SomeOpposition', 20200310, 102, 4, 104
+      'SomeName', 100, 'SomeOpposition', 20200310, 102, 4, 104
 
 ```
